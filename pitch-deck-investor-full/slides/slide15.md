@@ -6,6 +6,8 @@
 
 ## Enabled by Content Addressing
 
+*Content-addressable AI ensures provenance and transparency for training data and models.*
+
 ![AI Foundation](../images/slide15.png)
 
 

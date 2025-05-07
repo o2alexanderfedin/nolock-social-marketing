@@ -6,6 +6,8 @@
 
 ## Social Connections Based on Trust
 
+*Networks of Trust mirror how humans naturally establish trust relationships in the real world.*
+
 ![Networks of Trust](../images/slide9.png)
 
 

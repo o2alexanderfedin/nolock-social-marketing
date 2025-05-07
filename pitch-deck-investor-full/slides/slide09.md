@@ -6,6 +6,8 @@
 
 ## Decentralized Immutable Source of Truth
 
+*DISOT enables mutable data with immutable history through digital signatures.*
+
 ![DISOT](../images/slide8.png)
 
 

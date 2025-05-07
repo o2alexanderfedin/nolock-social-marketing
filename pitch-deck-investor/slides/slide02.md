@@ -6,6 +6,8 @@
 
 ## Digital Trust is Broken
 
+*Digital trust is fundamentally broken with centralized control, content manipulation, and privacy exploitation.*
+
 ![The Problem](../images/slide2.png)
 
 

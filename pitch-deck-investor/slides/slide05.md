@@ -6,6 +6,8 @@
 
 ## Dual Revenue Streams
 
+*Dual revenue streams combining B2C freemium subscriptions and B2B technology licensing.*
+
 ![Business Model](../images/slide14.png)
 
 

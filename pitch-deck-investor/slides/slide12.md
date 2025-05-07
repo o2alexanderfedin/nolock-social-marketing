@@ -6,6 +6,8 @@
 
 ## Funding Request & Use of Funds
 
+*Seeking $2.5M pre-seed funding to reach key milestones toward Series A readiness.*
+
 ![Investment Ask](../images/slide21.png)
 
 

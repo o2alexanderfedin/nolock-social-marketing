@@ -6,6 +6,8 @@
 
 ## Trust-Based Digital Infrastructure
 
+*Our solution provides user-controlled identity, immutable content verification, and trust-based filtering.*
+
 ![Our Solution](../images/slide6.png)
 
 

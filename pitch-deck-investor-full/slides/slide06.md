@@ -6,6 +6,8 @@
 
 ## Decentralized Social Networks & Digital Trust
 
+*A rapidly growing $12B market projected to reach $101B by 2033 with clear TAM/SAM/SOM breakdown.*
+
 ![Market Opportunity](../images/slide5.png)
 
 

@@ -6,6 +6,8 @@
 
 ## Platform & Applications
 
+*Our dual product strategy creates a complete ecosystem from infrastructure to user experience.*
+
 ![Product Overview](../images/slide7.png)
 
 

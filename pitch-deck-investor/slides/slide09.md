@@ -6,6 +6,8 @@
 
 ## Adoption & Growth Plan
 
+*Three-phase GTM strategy from developer adoption to mainstream users with clear metrics.*
+
 ![Go-to-Market Strategy](../images/slide17.png)
 
 

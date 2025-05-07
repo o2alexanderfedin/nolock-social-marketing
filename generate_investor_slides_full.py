@@ -20,6 +20,9 @@ slides = {
         "subtitle": "Rebuild Trust in the Digital Space",
         "image": "slide1.png",
         "content": """
+*A next-generation platform rebuilding digital trust with decentralized identity in a $12B market.*
+
+
 ## Pre-Seed Investment Opportunity
 
 - **Next-Generation Trust Infrastructure**
@@ -34,6 +37,9 @@ slides = {
         "subtitle": "Distrust in Digital Space",
         "image": "slide2.png",
         "content": """
+*Content authenticity issues and lack of ownership create fundamental digital trust challenges.*
+
+
 ## Critical Issues:
 
 - **Content that can be secretly modified**
@@ -52,6 +58,9 @@ slides = {
         "subtitle": "Digital Vulnerability",
         "image": "slide3.png",
         "content": """
+*Centralized data vulnerabilities and the surveillance economy compromise user privacy and security.*
+
+
 ## Serious Vulnerabilities:
 
 - **Centralized data storage risks**
@@ -71,6 +80,9 @@ slides = {
         "subtitle": "Trust Without Verification",
         "image": "slide4.png",
         "content": """
+*Current digital systems require blind trust in central authorities without transparency.*
+
+
 ## Fundamental Design Flaws:
 
 - **Trust without verification**
@@ -91,6 +103,9 @@ slides = {
         "subtitle": "A New Digital Infrastructure",
         "image": "slide5.png",
         "content": """
+*Building a new trust layer based on cryptographic proof rather than blind trust.*
+
+
 ## Building a New Trust Layer:
 
 - **Rebuilding digital trust through decentralized technology**
@@ -113,6 +128,9 @@ slides = {
         "subtitle": "Decentralized Social Networks & Digital Trust",
         "image": "slide5.png",
         "content": """
+*A rapidly growing $12B market projected to reach $101B by 2033 with clear TAM/SAM/SOM breakdown.*
+
+
 ## Market Analysis:
 
 **Total Addressable Market (TAM):**
@@ -137,6 +155,9 @@ slides = {
         "subtitle": "Universal Content-Addressable Storage",
         "image": "slide6.png",
         "content": """
+*Our core technology uses content-addressable storage with superior efficiency and security.*
+
+
 ## Core Technology:
 
 - **Content identified by cryptographic hash, not location**
@@ -159,6 +180,9 @@ slides = {
         "subtitle": "Dual Revenue Streams",
         "image": "slide14.png",
         "content": """
+*Dual revenue streams combining B2C freemium subscriptions and B2B technology licensing.*
+
+
 ## Two-Pronged Approach:
 
 **1. Delfin Social Platform (B2C)**
@@ -184,6 +208,9 @@ slides = {
         "subtitle": "Decentralized Immutable Source of Truth",
         "image": "slide8.png",
         "content": """
+*DISOT enables mutable data with immutable history through digital signatures.*
+
+
 ## Building on CAS:
 
 - **Uses digital signatures to allow mutable data**
@@ -208,6 +235,9 @@ slides = {
         "subtitle": "Social Connections Based on Trust",
         "image": "slide9.png",
         "content": """
+*Networks of Trust mirror how humans naturally establish trust relationships in the real world.*
+
+
 ## Subjective Trust:
 
 - **Social connections based on real-world trust**
@@ -231,6 +261,9 @@ slides = {
         "subtitle": "Content-Addressable Programming",
         "image": "slide10.png",
         "content": """
+*FunctionalScript provides a 40% performance improvement for content-addressable operations.*
+
+
 ## Key Technology:
 
 - **Purpose-built language for immutable data operations**
@@ -255,6 +288,9 @@ slides = {
         "subtitle": "Core CAS Technology",
         "image": "slide11.png",
         "content": """
+*Blockset democratizes industrial-grade content-addressable storage for everyday use.*
+
+
 ## Key Innovation:
 
 - **Core content-addressable storage technology**
@@ -279,6 +315,9 @@ slides = {
         "subtitle": "Decentralized Social Network",
         "image": "slide12.png",
         "content": """
+*Delfin delivers a decentralized social network with user-owned identity and content.*
+
+
 ## Consumer Application:
 
 - **Decentralized social network based on trust models**
@@ -303,6 +342,9 @@ slides = {
         "subtitle": "Core Advantages",
         "image": "slide13.png",
         "content": """
+*Our platform offers future-proof technology, offline functionality, and verifiable content.*
+
+
 ## Platform Benefits:
 
 - **Future-Proof Technology**
@@ -327,6 +369,9 @@ slides = {
         "subtitle": "Enabled by Content Addressing",
         "image": "slide15.png",
         "content": """
+*Content-addressable AI ensures provenance and transparency for training data and models.*
+
+
 ## AI Integration:
 
 - **Content-addressable AI training data**
@@ -351,6 +396,9 @@ slides = {
         "subtitle": "Platform & Applications",
         "image": "slide7.png",
         "content": """
+*Our dual product strategy creates a complete ecosystem from infrastructure to user experience.*
+
+
 ## Dual Product Strategy:
 
 **Delfin: Consumer Application**
@@ -373,6 +421,9 @@ slides = {
         "subtitle": "Our Key Differentiators",
         "image": "slide11.png",
         "content": """
+*Our key differentiators include proprietary technology with patent protection.*
+
+
 ## Proprietary Technology Stack:
 
 **1. DISOT (Decentralized Immutable Source of Truth)**
@@ -398,6 +449,9 @@ slides = {
         "subtitle": "Positioning in the Market",
         "image": "slide9.png",
         "content": """
+*We combine the best elements of centralized usability and decentralized security.*
+
+
 ## Market Positioning:
 
 **Centralized Alternatives:**
@@ -420,6 +474,9 @@ slides = {
         "subtitle": "Adoption & Growth Plan",
         "image": "slide17.png",
         "content": """
+*Three-phase GTM strategy from developer adoption to mainstream users with clear metrics.*
+
+
 ## Multi-Phase Approach:
 
 **Phase 1: Developer Community (6 months)**
@@ -448,6 +505,9 @@ slides = {
         "subtitle": "Progress & Roadmap",
         "image": "slide19.png",
         "content": """
+*Demonstrated progress with early partnerships, developer traction, and clear roadmap.*
+
+
 ## Progress To Date:
 
 **✓ Technology Development**
@@ -477,6 +537,9 @@ slides = {
         "subtitle": "Funding Request & Use of Funds",
         "image": "slide21.png",
         "content": """
+*Seeking $2.5M pre-seed funding to reach key milestones toward Series A readiness.*
+
+
 ## Seeking $2.5M Pre-Seed Round
 
 **Use of Funds:**

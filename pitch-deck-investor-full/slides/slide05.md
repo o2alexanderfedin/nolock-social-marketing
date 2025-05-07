@@ -6,6 +6,8 @@
 
 ## A New Digital Infrastructure
 
+*Building a new trust layer based on cryptographic proof rather than blind trust.*
+
 ![Our Vision](../images/slide5.png)
 
 

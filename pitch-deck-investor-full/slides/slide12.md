@@ -6,6 +6,8 @@
 
 ## Core CAS Technology
 
+*Blockset democratizes industrial-grade content-addressable storage for everyday use.*
+
 ![Blockset](../images/slide11.png)
 
 

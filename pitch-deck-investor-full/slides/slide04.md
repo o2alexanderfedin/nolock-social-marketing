@@ -6,6 +6,8 @@
 
 ## Trust Without Verification
 
+*Current digital systems require blind trust in central authorities without transparency.*
+
 ![The Problem III](../images/slide4.png)
 
 

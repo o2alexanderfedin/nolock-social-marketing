@@ -6,6 +6,8 @@
 
 ## Positioning in the Market
 
+*We provide unique advantages over both centralized platforms and decentralized alternatives.*
+
 ![Competitive Landscape](../images/slide9.png)
 
 

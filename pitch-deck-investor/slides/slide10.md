@@ -6,6 +6,8 @@
 
 ## Progress & Roadmap
 
+*Demonstrated progress with early partnerships, developer traction, and clear roadmap.*
+
 ![Traction & Milestones](../images/slide19.png)
 
 

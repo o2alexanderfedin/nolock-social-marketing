@@ -6,6 +6,8 @@
 
 ## Our Key Differentiators
 
+*Our key differentiators include proprietary technology with patent protection.*
+
 ![Technology Advantage](../images/slide11.png)
 
 

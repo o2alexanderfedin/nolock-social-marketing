@@ -6,6 +6,8 @@
 
 ## Decentralized Social Network
 
+*Delfin delivers a decentralized social network with user-owned identity and content.*
+
 ![Delfin](../images/slide12.png)
 
 

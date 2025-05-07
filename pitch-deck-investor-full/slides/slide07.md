@@ -6,6 +6,8 @@
 
 ## Universal Content-Addressable Storage
 
+*Our core technology uses content-addressable storage with superior efficiency and security.*
+
 ![Our Solution](../images/slide6.png)
 
 

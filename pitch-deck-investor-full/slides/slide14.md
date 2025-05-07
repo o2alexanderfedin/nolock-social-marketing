@@ -6,6 +6,8 @@
 
 ## Core Advantages
 
+*Our platform offers future-proof technology, offline functionality, and verifiable content.*
+
 ![Benefits](../images/slide13.png)
 
 

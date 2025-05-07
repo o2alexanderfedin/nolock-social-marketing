@@ -6,6 +6,8 @@
 
 ## Leadership & Advisors
 
+*Experienced leadership team with technical expertise and successful entrepreneurial track record.*
+
 ![Team](../images/slide20.png)
 
 

@@ -6,6 +6,8 @@
 
 ## Digital Vulnerability
 
+*Centralized data vulnerabilities and the surveillance economy compromise user privacy and security.*
+
 ![The Problem II](../images/slide3.png)
 
 

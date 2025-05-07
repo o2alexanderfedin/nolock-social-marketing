@@ -6,6 +6,8 @@
 
 ## Content-Addressable Programming
 
+*FunctionalScript provides a 40% performance improvement for content-addressable operations.*
+
 ![FunctionalScript](../images/slide10.png)
 
 

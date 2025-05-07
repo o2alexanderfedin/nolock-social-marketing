@@ -6,6 +6,8 @@
 
 ## Distrust in Digital Space
 
+*Content authenticity issues and lack of ownership create fundamental digital trust challenges.*
+
 ![The Problem I](../images/slide2.png)
 
 

@@ -6,6 +6,8 @@
 
 ## Rebuild Trust in the Digital Space
 
+*A next-generation platform rebuilding digital trust with decentralized identity in a $12B market.*
+
 ![NoLock Social](../images/slide1.png)
 
 

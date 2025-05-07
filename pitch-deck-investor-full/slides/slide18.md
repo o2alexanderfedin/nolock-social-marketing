@@ -6,6 +6,8 @@
 
 ## Positioning in the Market
 
+*We combine the best elements of centralized usability and decentralized security.*
+
 ![Competitive Landscape](../images/slide9.png)
 
 

@@ -6,6 +6,8 @@
 
 ## Our Key Differentiators
 
+*Proprietary technology creates barriers to entry with 3x efficiency over blockchain alternatives.*
+
 ![Technology Advantage](../images/slide11.png)
 
 

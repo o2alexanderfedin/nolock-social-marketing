@@ -20,6 +20,9 @@ slides = {
         "subtitle": "Rebuild Trust in the Digital Space",
         "image": "slide1.png",
         "content": """
+*A next-generation platform rebuilding digital trust with decentralized identity in a $12B market.*
+
+
 ## Pre-Seed Investment Opportunity
 
 - **Next-Generation Trust Infrastructure**
@@ -32,6 +35,9 @@ slides = {
         "subtitle": "Digital Trust is Broken",
         "image": "slide2.png",
         "content": """
+*Digital trust is fundamentally broken with centralized control, content manipulation, and privacy exploitation.*
+
+
 ## Three Critical Market Failures:
 
 1. **Centralized Platforms Control User Data & Identity**
@@ -49,6 +55,9 @@ slides = {
         "subtitle": "Trust-Based Digital Infrastructure",
         "image": "slide6.png",
         "content": """
+*Our solution provides user-controlled identity, immutable content verification, and trust-based filtering.*
+
+
 ## NoLock Social Platform:
 
 1. **User-Controlled Digital Identity**
@@ -68,6 +77,9 @@ slides = {
         "subtitle": "Decentralized Social Networks & Digital Trust",
         "image": "slide5.png",
         "content": """
+*A rapidly growing $12B market projected to reach $101B by 2033 with clear TAM/SAM/SOM breakdown.*
+
+
 ## Market Analysis:
 
 **Total Addressable Market (TAM):**
@@ -91,6 +103,9 @@ slides = {
         "subtitle": "Dual Revenue Streams",
         "image": "slide14.png",
         "content": """
+*Dual revenue streams combining B2C freemium subscriptions and B2B technology licensing.*
+
+
 ## Two-Pronged Approach:
 
 **1. Delfin Social Platform (B2C)**
@@ -114,6 +129,9 @@ slides = {
         "subtitle": "Platform & Applications",
         "image": "slide7.png",
         "content": """
+*Our comprehensive product stack includes consumer applications and enterprise infrastructure.*
+
+
 ## Dual Product Strategy:
 
 **Delfin: Consumer Application**
@@ -134,6 +152,9 @@ slides = {
         "subtitle": "Our Key Differentiators",
         "image": "slide11.png",
         "content": """
+*Proprietary technology creates barriers to entry with 3x efficiency over blockchain alternatives.*
+
+
 ## Proprietary Technology Stack:
 
 **1. DISOT (Decentralized Immutable Source of Truth)**
@@ -156,6 +177,9 @@ slides = {
         "subtitle": "Positioning in the Market",
         "image": "slide9.png",
         "content": """
+*We provide unique advantages over both centralized platforms and decentralized alternatives.*
+
+
 ## Market Positioning:
 
 **Centralized Alternatives:**
@@ -176,6 +200,9 @@ slides = {
         "subtitle": "Adoption & Growth Plan",
         "image": "slide17.png",
         "content": """
+*Three-phase GTM strategy from developer adoption to mainstream users with clear metrics.*
+
+
 ## Multi-Phase Approach:
 
 **Phase 1: Developer Community (6 months)**
@@ -201,6 +228,9 @@ slides = {
         "subtitle": "Progress & Roadmap",
         "image": "slide19.png",
         "content": """
+*Demonstrated progress with early partnerships, developer traction, and clear roadmap.*
+
+
 ## Progress To Date:
 
 **✓ Technology Development**
@@ -226,6 +256,9 @@ slides = {
         "subtitle": "Leadership & Advisors",
         "image": "slide20.png",
         "content": """
+*Experienced leadership team with technical expertise and successful entrepreneurial track record.*
+
+
 ## Founding Team:
 
 **Sergey Shandar, CTO & Co-Founder**
@@ -249,6 +282,9 @@ slides = {
         "subtitle": "Funding Request & Use of Funds",
         "image": "slide21.png",
         "content": """
+*Seeking $2.5M pre-seed funding to reach key milestones toward Series A readiness.*
+
+
 ## Seeking $2.5M Pre-Seed Round
 
 **Use of Funds:**

@@ -6,6 +6,8 @@
 
 ## Platform & Applications
 
+*Our comprehensive product stack includes consumer applications and enterprise infrastructure.*
+
 ![Product Overview](../images/slide7.png)
 
 
