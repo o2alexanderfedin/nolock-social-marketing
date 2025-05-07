@@ -1,3 +1,7 @@
+[← Previous](slide11.md) | [↑ Overview](../README.md) | [Next →](slide13.md)
+
+---
+
 # Blockset
 
 ## Core CAS Technology
@@ -24,4 +28,8 @@
 > *"Blockset makes industrial-grade content-addressable storage accessible and practical for everyday use"*
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide11.md) | [↑ Overview](../README.md) | [Next →](slide13.md)
+

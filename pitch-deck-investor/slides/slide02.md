@@ -1,3 +1,7 @@
+[← Previous](slide01.md) | [↑ Overview](../README.md) | [Next →](slide03.md)
+
+---
+
 # The Problem
 
 ## Digital Trust is Broken
@@ -20,4 +24,8 @@
    - [Source: Harvard Business Review](https://hbr.org/2022/10/the-hidden-cost-of-digital-surveillance)
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide01.md) | [↑ Overview](../README.md) | [Next →](slide03.md)
+

@@ -1,3 +1,7 @@
+[← Previous](slide15.md) | [↑ Overview](../README.md) | [Next →](slide17.md)
+
+---
+
 # Product Overview
 
 ## Platform & Applications
@@ -22,4 +26,8 @@
 > *"Our products form a complete ecosystem for rebuilding digital trust from infrastructure to user experience."*
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide15.md) | [↑ Overview](../README.md) | [Next →](slide17.md)
+

@@ -1,3 +1,7 @@
+[← Previous](slide17.md) | [↑ Overview](../README.md) | [Next →](slide19.md)
+
+---
+
 # Competitive Landscape
 
 ## Positioning in the Market
@@ -22,4 +26,8 @@
 > *NoLock Social combines the usability of centralized platforms with the security of decentralized systems.*
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide17.md) | [↑ Overview](../README.md) | [Next →](slide19.md)
+

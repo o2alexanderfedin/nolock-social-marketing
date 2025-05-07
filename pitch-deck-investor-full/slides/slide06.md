@@ -1,3 +1,7 @@
+[← Previous](slide05.md) | [↑ Overview](../README.md) | [Next →](slide07.md)
+
+---
+
 # Market Opportunity
 
 ## Decentralized Social Networks & Digital Trust
@@ -24,4 +28,8 @@
 - Based on [projected adoption rates](https://www.statista.com/statistics/1281525/web3-sector-predicted-market-size-worldwide/) for Web3 technologies
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide05.md) | [↑ Overview](../README.md) | [Next →](slide07.md)
+

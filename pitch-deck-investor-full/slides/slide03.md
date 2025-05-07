@@ -1,3 +1,7 @@
+[← Previous](slide02.md) | [↑ Overview](../README.md) | [Next →](slide04.md)
+
+---
+
 # The Problem II
 
 ## Digital Vulnerability
@@ -19,4 +23,8 @@
 > *Digital infrastructure is increasingly built on extractive economics rather than value creation*
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide02.md) | [↑ Overview](../README.md) | [Next →](slide04.md)
+

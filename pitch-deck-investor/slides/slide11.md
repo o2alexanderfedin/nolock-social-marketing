@@ -1,3 +1,7 @@
+[← Previous](slide10.md) | [↑ Overview](../README.md) | [Next →](slide12.md)
+
+---
+
 # Team
 
 ## Leadership & Advisors
@@ -23,4 +27,8 @@
 - **Alicia Washington** - Venture Partner at TechFund Capital
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide10.md) | [↑ Overview](../README.md) | [Next →](slide12.md)
+

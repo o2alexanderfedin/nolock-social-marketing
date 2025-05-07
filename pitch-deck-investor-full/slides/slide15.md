@@ -1,3 +1,7 @@
+[← Previous](slide14.md) | [↑ Overview](../README.md) | [Next →](slide16.md)
+
+---
+
 # AI Foundation
 
 ## Enabled by Content Addressing
@@ -24,4 +28,8 @@
 > *"Our infrastructure provides a foundation for truly trustworthy AI that users can verify, not just trust"*
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide14.md) | [↑ Overview](../README.md) | [Next →](slide16.md)
+

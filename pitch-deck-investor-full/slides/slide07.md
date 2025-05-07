@@ -1,3 +1,7 @@
+[← Previous](slide06.md) | [↑ Overview](../README.md) | [Next →](slide08.md)
+
+---
+
 # Our Solution
 
 ## Universal Content-Addressable Storage
@@ -22,4 +26,8 @@
 > *"Our unique implementation of CAS technology provides the foundation for rebuilding digital trust"*
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide06.md) | [↑ Overview](../README.md) | [Next →](slide08.md)
+

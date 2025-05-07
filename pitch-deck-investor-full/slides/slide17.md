@@ -1,3 +1,7 @@
+[← Previous](slide16.md) | [↑ Overview](../README.md) | [Next →](slide18.md)
+
+---
+
 # Technology Advantage
 
 ## Our Key Differentiators
@@ -25,4 +29,8 @@
 > *8 provisional patents filed covering core technologies*
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide16.md) | [↑ Overview](../README.md) | [Next →](slide18.md)
+

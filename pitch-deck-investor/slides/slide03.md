@@ -1,3 +1,7 @@
+[← Previous](slide02.md) | [↑ Overview](../README.md) | [Next →](slide04.md)
+
+---
+
 # Our Solution
 
 ## Trust-Based Digital Infrastructure
@@ -19,4 +23,8 @@
 > *"NoLock Social rebuilds digital trust by replacing centralized authorities with transparent, user-controlled networks of trust."*
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide02.md) | [↑ Overview](../README.md) | [Next →](slide04.md)
+

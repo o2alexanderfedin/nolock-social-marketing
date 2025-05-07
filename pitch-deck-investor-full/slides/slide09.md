@@ -1,3 +1,7 @@
+[← Previous](slide08.md) | [↑ Overview](../README.md) | [Next →](slide10.md)
+
+---
+
 # DISOT
 
 ## Decentralized Immutable Source of Truth
@@ -24,4 +28,8 @@
 > *"DISOT creates a foundation for trusted content that can be updated while maintaining verifiable history"*
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide08.md) | [↑ Overview](../README.md) | [Next →](slide10.md)
+

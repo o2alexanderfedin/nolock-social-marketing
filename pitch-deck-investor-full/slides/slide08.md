@@ -1,3 +1,7 @@
+[← Previous](slide07.md) | [↑ Overview](../README.md) | [Next →](slide09.md)
+
+---
+
 # Business Model
 
 ## Dual Revenue Streams
@@ -25,4 +29,8 @@
 > *Projected gross margins: 75-85%* | [Industry benchmark source](https://medium.com/breadcrumb/saas-economics-gross-margin-part-1-919df3eb8e8e)
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide07.md) | [↑ Overview](../README.md) | [Next →](slide09.md)
+

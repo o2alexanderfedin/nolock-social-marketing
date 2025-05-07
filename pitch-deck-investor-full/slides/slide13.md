@@ -1,3 +1,7 @@
+[← Previous](slide12.md) | [↑ Overview](../README.md) | [Next →](slide14.md)
+
+---
+
 # Delfin
 
 ## Decentralized Social Network
@@ -24,4 +28,8 @@
 > *"Delfin is our flagship consumer application demonstrating the power of NoLock's technology stack"*
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide12.md) | [↑ Overview](../README.md) | [Next →](slide14.md)
+

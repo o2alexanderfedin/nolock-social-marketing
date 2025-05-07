@@ -1,3 +1,7 @@
+[← Previous](slide04.md) | [↑ Overview](../README.md) | [Next →](slide06.md)
+
+---
+
 # Our Vision
 
 ## A New Digital Infrastructure
@@ -22,4 +26,8 @@
 > *"Creating digital spaces where trust can be earned rather than assumed"*
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide04.md) | [↑ Overview](../README.md) | [Next →](slide06.md)
+

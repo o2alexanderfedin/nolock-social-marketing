@@ -1,3 +1,7 @@
+[← Previous](slide20.md) | [↑ Overview](../README.md) | [Next →](slide01.md)
+
+---
+
 # Investment Ask
 
 ## Funding Request & Use of Funds
@@ -30,4 +34,8 @@
 - [Reference: Web3 valuations](https://outlierventures.io/research/the-open-metaverse-os/)
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide20.md) | [↑ Overview](../README.md) | [Next →](slide01.md)
+

@@ -1,3 +1,7 @@
+[← Previous](slide12.md) | [↑ Overview](../README.md) | [Next →](slide02.md)
+
+---
+
 # NoLock Social
 
 ## Rebuild Trust in the Digital Space
@@ -12,4 +16,8 @@
 - **$12.1B Market | 25% Annual Growth Rate**
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide12.md) | [↑ Overview](../README.md) | [Next →](slide02.md)
+

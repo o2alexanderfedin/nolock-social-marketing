@@ -1,3 +1,7 @@
+[← Previous](slide09.md) | [↑ Overview](../README.md) | [Next →](slide11.md)
+
+---
+
 # Traction & Milestones
 
 ## Progress & Roadmap
@@ -25,4 +29,8 @@
 - Full production launch (Q2 2024)
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide09.md) | [↑ Overview](../README.md) | [Next →](slide11.md)
+

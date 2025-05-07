@@ -1,3 +1,7 @@
+[← Previous](slide19.md) | [↑ Overview](../README.md) | [Next →](slide21.md)
+
+---
+
 # Traction & Milestones
 
 ## Progress & Roadmap
@@ -29,4 +33,8 @@
 - [Source: Our Product Roadmap]()
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide19.md) | [↑ Overview](../README.md) | [Next →](slide21.md)
+

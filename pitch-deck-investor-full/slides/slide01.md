@@ -1,3 +1,7 @@
+[← Previous](slide21.md) | [↑ Overview](../README.md) | [Next →](slide02.md)
+
+---
+
 # NoLock Social
 
 ## Rebuild Trust in the Digital Space
@@ -14,4 +18,8 @@
 [Source: Market Research Future (MRFR)](https://www.marketresearchfuture.com/reports/decentralized-social-network-market-11591)
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide21.md) | [↑ Overview](../README.md) | [Next →](slide02.md)
+

@@ -1,3 +1,7 @@
+[← Previous](slide09.md) | [↑ Overview](../README.md) | [Next →](slide11.md)
+
+---
+
 # Networks of Trust
 
 ## Social Connections Based on Trust
@@ -23,4 +27,8 @@
 > *"Our trust networks mirror how humans naturally establish and maintain trust in the real world"*
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide09.md) | [↑ Overview](../README.md) | [Next →](slide11.md)
+

@@ -1,3 +1,7 @@
+[← Previous](slide13.md) | [↑ Overview](../README.md) | [Next →](slide15.md)
+
+---
+
 # Benefits
 
 ## Core Advantages
@@ -24,4 +28,8 @@
   - [Source: Personalized Recommendation Systems](https://dl.acm.org/doi/10.1145/3285029)
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide13.md) | [↑ Overview](../README.md) | [Next →](slide15.md)
+

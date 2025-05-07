@@ -1,3 +1,7 @@
+[← Previous](slide10.md) | [↑ Overview](../README.md) | [Next →](slide12.md)
+
+---
+
 # FunctionalScript
 
 ## Content-Addressable Programming
@@ -24,4 +28,8 @@
 > *"FunctionalScript makes building with content-addressable storage as easy as working with traditional databases"*
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide10.md) | [↑ Overview](../README.md) | [Next →](slide12.md)
+

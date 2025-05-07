@@ -1,3 +1,7 @@
+[← Previous](slide18.md) | [↑ Overview](../README.md) | [Next →](slide20.md)
+
+---
+
 # Go-to-Market Strategy
 
 ## Adoption & Growth Plan
@@ -28,4 +32,8 @@
 > *Customer acquisition cost target: $3.50 per user* | [Benchmark source](https://www.profitwell.com/recur/all/customer-acquisition-cost)
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide18.md) | [↑ Overview](../README.md) | [Next →](slide20.md)
+

@@ -1,3 +1,7 @@
+[← Previous](slide03.md) | [↑ Overview](../README.md) | [Next →](slide05.md)
+
+---
+
 # The Problem III
 
 ## Trust Without Verification
@@ -20,4 +24,8 @@
 > *83% of consumers express concern about how their data is being used online*
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide03.md) | [↑ Overview](../README.md) | [Next →](slide05.md)
+

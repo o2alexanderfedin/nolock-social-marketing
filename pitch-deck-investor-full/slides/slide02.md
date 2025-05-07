@@ -1,3 +1,7 @@
+[← Previous](slide01.md) | [↑ Overview](../README.md) | [Next →](slide03.md)
+
+---
+
 # The Problem I
 
 ## Distrust in Digital Space
@@ -18,4 +22,8 @@
 > *76% of users struggle to identify authentic content in digital spaces*
 
 
-[Back to Deck Overview](../README.md)
+
+---
+
+[← Previous](slide01.md) | [↑ Overview](../README.md) | [Next →](slide03.md)
+
