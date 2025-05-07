@@ -22,7 +22,8 @@ Detailed documentation is available in the `/docs` directory:
 
 - [**Presentation Metadata**](presentation-metadata/README.md) - Detailed annotations and content for each slide
 - [**Pitch Deck**](pitch-deck/README.md) - Professional pitch content following presentation best practices
-- [**Investor Pitch Deck**](pitch-deck-investor/README.md) - Specialized pre-seed funding pitch deck
+- [**Investor Pitch Deck**](pitch-deck-investor/README.md) - Specialized pre-seed funding pitch deck (12 slides)
+- [**Full Investor Pitch Deck**](pitch-deck-investor-full/README.md) - Comprehensive investor pitch deck (21 slides)
 - [Complete PDF Presentation](docs/assets/nolock_social_presentation.pdf) - Full NoLock Social presentation
 
 ## Resources

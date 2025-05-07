@@ -81,6 +81,10 @@ NoLock Social is building a decentralized digital ecosystem that enables users t
     - `INVESTOR_QA.md` - Investor requirements and specifications
     - `REVIEW_RESPONSE.md` - How this deck addresses investor feedback
     - `PRESENTATION_GUIDE.md` - Talking points and presentation tips
+  - `/pitch-deck-investor-full/` - Comprehensive investor pitch deck
+    - `/slides/` - Full investor slide content (slide01.md - slide21.md) 
+    - `/images/` - Slide images for the comprehensive deck
+    - `README.md` - Full investor pitch structure and guidelines
 
 ## Command Reference
 
@@ -107,6 +111,9 @@ python3 generate_pitch_slides.py
 
 # Generate investor pitch deck slides (if needed)
 python3 generate_investor_slides.py
+
+# Generate full investor pitch deck slides (21 slides)
+python3 generate_investor_slides_full.py
 ```
 
 ## Key Concepts and Terminology

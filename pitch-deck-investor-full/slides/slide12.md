@@ -1,0 +1,27 @@
+# Blockset
+
+## Core CAS Technology
+
+![Blockset](../images/slide11.png)
+
+
+## Key Innovation:
+
+- **Core content-addressable storage technology**
+  - Developed by our CTO Sergey Shandar
+  - [Source: Our Technical Documentation]()
+
+- **Democratizes CAS for individual users**
+  - Previously only feasible for large infrastructure providers
+  - Now accessible for everyday applications
+  - [Source: Storage Efficiency Benchmarks]()
+
+- **Significant technical advantages**
+  - 60% storage savings versus traditional IPFS
+  - 40% bandwidth reduction over competitors
+  - [Source: Our Internal Testing]()
+
+> *"Blockset makes industrial-grade content-addressable storage accessible and practical for everyday use"*
+
+
+[Back to Deck Overview](../README.md)
