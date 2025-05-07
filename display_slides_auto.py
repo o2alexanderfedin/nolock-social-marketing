@@ -8,6 +8,7 @@ import webbrowser
 # Configuration
 SLIDES_URL = "https://docs.google.com/presentation/d/1nB_qDZdPiVAA8KbGzatFYnzW24-rE5NSAamyvGgxrcU/edit"
 EXPORT_DIR = "/Users/alexanderfedin/Projects/nolock.social/marketing/slides_export"
+DISPLAY_TIME = 30  # seconds to display each slide content
 
 def load_slide_data(slide_number):
     """Load slide data from the exported markdown file."""
@@ -65,7 +66,7 @@ def display_slide_content(slide_number):
     # Clear the terminal
     os.system('cls' if os.name == 'nt' else 'clear')
     
-    print(f"\n===== Slide {slide_number}: {slide_data['title']} =====\n")
+    print(f"\n===== Slide {slide_number}/{21}: {slide_data['title']} =====\n")
     
     print("\033[1;34m=== TITLE ===\033[0m")
     print(f"{slide_data['title']}\n")
@@ -87,14 +88,9 @@ def display_slide_content(slide_number):
     if slide_data['sources']:
         print("\033[1;34m=== SOURCES ===\033[0m")
         print(slide_data['sources'] + "\n")
-    
-    print("\033[1;33m----------------------------------------------\033[0m")
-    print("\033[1;33mPress Enter when you're done editing this slide\033[0m")
-    print("\033[1;33mType 'q' to quit or a slide number to jump to it\033[0m")
-    print("\033[1;33m----------------------------------------------\033[0m")
 
 def main():
-    """Main function to assist with updating Google Slides."""
+    """Main function to display slides in sequence."""
     # Open the Google Slides presentation
     print(f"Opening Google Slides: {SLIDES_URL}")
     webbrowser.open(SLIDES_URL)
@@ -102,50 +98,29 @@ def main():
     # Wait for the browser to open
     time.sleep(3)
     
-    # Process each slide (starting from slide 1)
-    num_slides = 21  # Total number of slides to process
+    # Process each slide
+    num_slides = 21  # Total number of slides
     
-    # Default to starting with slide 1
-    start_slide = 1
+    print("\n===== AUTOMATIC SLIDE DISPLAY MODE =====")
+    print(f"Each slide will be shown for {DISPLAY_TIME} seconds")
+    print("Copy the content you need for each slide")
+    print("Press Ctrl+C at any time to exit")
+    print("\nStarting in 3 seconds...")
+    time.sleep(3)
+    
     try:
-        user_input = input("Enter slide number to start with (1-21): ")
-        if user_input.strip():
-            start_slide = int(user_input)
-    except (EOFError, ValueError):
-        print(f"Using default: starting with slide {start_slide}")
-        
-    if start_slide < 1 or start_slide > num_slides:
-        print(f"Invalid slide number. Using slide 1 instead.")
-        start_slide = 1
-    
-    slide_num = start_slide
-    
-    while slide_num <= num_slides:
-        # Display the current slide content
-        display_slide_content(slide_num)
-        
-        # Get user input
-        try:
-            user_input = input().strip().lower()
+        for slide_num in range(1, num_slides + 1):
+            # Display the current slide content
+            display_slide_content(slide_num)
             
-            if user_input == 'q':
-                print("Exiting...")
-                break
-            elif user_input.isdigit():
-                new_slide = int(user_input)
-                if 1 <= new_slide <= num_slides:
-                    slide_num = new_slide
-                    continue
-                else:
-                    print(f"Invalid slide number. Must be between 1 and {num_slides}")
-                    time.sleep(2)
-            else:
-                # Move to the next slide
-                slide_num += 1
-        except EOFError:
-            # If there's an input error, move to the next slide
-            print("Moving to next slide...")
-            slide_num += 1
+            # Show countdown
+            for i in range(DISPLAY_TIME, 0, -1):
+                print(f"\r\033[1;33mNext slide in {i} seconds... Press Ctrl+C to exit\033[0m", end="")
+                time.sleep(1)
+            print("\r" + " " * 60 + "\r", end="")  # Clear the countdown line
+    
+    except KeyboardInterrupt:
+        print("\n\nExiting the slide display...")
     
     print("\nAll done! You can continue editing the slides in your browser.")
 
