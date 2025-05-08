@@ -1,0 +1,205 @@
+#!/usr/bin/env python3
+"""
+Improved script to add text boxes to PowerPoint slides with better formatting and hyperlinks
+"""
+
+import os
+import re
+from pptx import Presentation
+from pptx.util import Inches, Pt
+from pptx.enum.text import PP_ALIGN, MSO_ANCHOR
+from pptx.dml.color import RGBColor
+from pptx.oxml.xmlchemy import OxmlElement
+
+def add_hyperlink(run, url, text):
+    """Add a hyperlink to a text run"""
+    # This is a workaround to add hyperlinks
+    r = run._r
+    rPr = r.get_or_add_rPr()
+    
+    # Add hyperlink relationship
+    rel_id = run.part.relate_to(url, 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink', is_external=True)
+    
+    # Create hyperlink element
+    hyperlink = OxmlElement('a:hlinkClick')
+    hyperlink.set('xmlns:a', 'http://schemas.openxmlformats.org/drawingml/2006/main')
+    hyperlink.set('r:id', rel_id)
+    rPr.append(hyperlink)
+    
+    # Set text and return
+    run.text = text
+    return run
+
+def add_textboxes_to_slide2():
+    """Add text boxes to slide 2 with improved formatting"""
+    ppt_path = "/Users/alexanderfedin/Projects/nolock.social/marketing/REBUILD TRUST IN THE DIGITAL SPACEN LOCK•SOCIAL.pptx"
+    
+    # Create backup
+    import datetime
+    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+    backup_path = f"/Users/alexanderfedin/Projects/nolock.social/marketing/slide_02_backup_improved_{timestamp}.pptx"
+    
+    # Load the presentation
+    print(f"Loading presentation: {ppt_path}")
+    prs = Presentation(ppt_path)
+    
+    # Save backup
+    print(f"Saving backup to: {backup_path}")
+    prs.save(backup_path)
+    
+    # Get slide 2
+    slide = prs.slides[1]  # 0-indexed
+    
+    # Remove any previously added textboxes (shapes after the first 3)
+    original_shapes = list(slide.shapes)
+    if len(original_shapes) > 3:
+        print(f"Removing {len(original_shapes) - 3} previously added shapes")
+        for i in range(len(original_shapes) - 1, 2, -1):
+            shape = original_shapes[i]
+            # We can't directly remove shapes, but we can make them invisible
+            # by moving them off the slide or setting their size to 0
+            shape.left = -10000000
+            shape.width = 0
+            shape.height = 0
+    
+    # Content to add
+    summary = "Content authenticity issues and lack of ownership create fundamental digital trust challenges."
+    
+    # Bullet points with nested structure and links
+    bullet_points = [
+        {
+            "text": "Content that can be secretly modified",
+            "bold": True,
+            "level": 0
+        },
+        {
+            "text": "No guarantee that what you see is what was produced",
+            "bold": False,
+            "level": 1
+        },
+        {
+            "text": "Source: Reuters Digital News Report",
+            "bold": False,
+            "level": 1,
+            "link": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2022"
+        },
+        {
+            "text": "No inherent ownership means no responsibility",
+            "bold": True,
+            "level": 0
+        },
+        {
+            "text": "Rampant misinformation without accountability",
+            "bold": False,
+            "level": 1
+        },
+        {
+            "text": "Source: World Economic Forum",
+            "bold": False,
+            "level": 1,
+            "link": "https://www.weforum.org/agenda/2022/06/digital-trust-in-a-polarized-world/"
+        }
+    ]
+    
+    quote = "76% of users struggle to identify authentic content in digital spaces"
+    
+    # Add summary textbox
+    print("Adding summary text box")
+    summary_textbox = slide.shapes.add_textbox(
+        Inches(1),       # left
+        Inches(2.5),     # top
+        Inches(8),       # width
+        Inches(0.75)     # height
+    )
+    summary_textbox.text_frame.text = summary
+    # Format paragraph
+    p = summary_textbox.text_frame.paragraphs[0]
+    p.alignment = PP_ALIGN.LEFT
+    run = p.runs[0]
+    run.font.italic = True
+    run.font.size = Pt(16)
+    
+    # Add bullet points textbox
+    print("Adding bullet points text box")
+    bullets_textbox = slide.shapes.add_textbox(
+        Inches(1),       # left
+        Inches(3.5),     # top
+        Inches(7),       # width
+        Inches(2.5)      # height
+    )
+    
+    # Add bullet points with proper formatting
+    tf = bullets_textbox.text_frame
+    tf.text = ""  # Clear default text
+    
+    for i, point in enumerate(bullet_points):
+        p = tf.add_paragraph() if i > 0 else tf.paragraphs[0]
+        p.text = ""  # Clear the paragraph text
+        p.level = point.get("level", 0)
+        
+        if "link" in point:
+            # Add hyperlinked text
+            run = p.add_run()
+            add_hyperlink(run, point["link"], point["text"])
+            # Format the run
+            run.font.bold = point.get("bold", False)
+            run.font.size = Pt(14)
+            if "level" in point and point["level"] > 0:
+                run.font.size = Pt(12)
+            if "source" in point["text"].lower():
+                run.font.italic = True
+                run.font.size = Pt(10)
+                run.font.color.rgb = RGBColor(0, 0, 255)  # Blue for links
+        else:
+            # Add regular text
+            run = p.add_run()
+            run.text = point["text"]
+            # Format the run
+            run.font.bold = point.get("bold", False)
+            run.font.size = Pt(14)
+            if "level" in point and point["level"] > 0:
+                run.font.size = Pt(12)
+    
+    # Add quote textbox
+    print("Adding quote text box")
+    quote_textbox = slide.shapes.add_textbox(
+        Inches(1),       # left
+        Inches(6.25),    # top
+        Inches(8),       # width
+        Inches(0.75)     # height
+    )
+    quote_textbox.text_frame.text = f"\"{quote}\""
+    # Format paragraph
+    p = quote_textbox.text_frame.paragraphs[0]
+    p.alignment = PP_ALIGN.CENTER
+    run = p.runs[0]
+    run.font.italic = True
+    run.font.size = Pt(14)
+    
+    # Save the updated presentation
+    print("Saving updated presentation")
+    prs.save(ppt_path)
+    print("Slide 2 updated successfully!")
+    
+    return True
+
+def open_powerpoint():
+    """Open PowerPoint and the presentation"""
+    ppt_path = "/Users/alexanderfedin/Projects/nolock.social/marketing/REBUILD TRUST IN THE DIGITAL SPACEN LOCK•SOCIAL.pptx"
+    os.system(f"open -a 'Microsoft PowerPoint' '{ppt_path}'")
+    print("PowerPoint opened with the presentation")
+
+if __name__ == "__main__":
+    import argparse
+    
+    parser = argparse.ArgumentParser(description='Add improved text boxes to PowerPoint slide 2')
+    parser.add_argument('--open', action='store_true', help='Open PowerPoint after update')
+    
+    args = parser.parse_args()
+    
+    # Update slide 2
+    success = add_textboxes_to_slide2()
+    
+    # Open PowerPoint if requested
+    if args.open:
+        open_powerpoint()
