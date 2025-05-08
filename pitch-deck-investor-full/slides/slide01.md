@@ -8,9 +8,6 @@
 
 *A next-generation platform rebuilding digital trust with decentralized identity in a $12B market.*
 
-![NoLock Social](../images/slide1.png)
-
-
 ## Pre-Seed Investment Opportunity
 
 - **Next-Generation Trust Infrastructure**
