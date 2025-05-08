@@ -49,5 +49,22 @@ venv.bak/
 .vscode/
 *.swp
 *.swo
-EOF < /dev/null
 **/.claude/settings.local.json
+
+# Temporary PowerPoint files
+*~$*.ppt*
+*.pptx_backup_*
+*_backup_*.pptx
+*verified_*.pptx
+*backup_*.pptx
+*final_*.pptx
+*fixed_*.pptx
+
+# Slide verification logs
+slide_verification_log_*.txt
+
+# Slide content coordinates
+slide_coordinates.json
+
+# Automation script-generated files
+slide_content/
