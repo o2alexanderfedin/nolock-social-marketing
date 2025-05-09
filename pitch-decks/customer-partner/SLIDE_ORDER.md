@@ -1,0 +1,60 @@
+# Complete 21-Slide Customer & Partner Pitch Deck
+
+## Slide Order and Titles
+
+All simplified slides have been created in this exact order with these specific titles to match the original pitch deck structure:
+
+1. **Title Slide**: "NOLOCK•SOCIAL - PARTNERSHIP OPPORTUNITIES" - [View](slides-simplified/slide01.md)
+2. **Partnership Value**: "WHY PARTNER WITH US" - [View](slides-simplified/slide02.md)
+3. **Problem 1**: "CONTENT VERIFICATION CRISIS" - [View](slides-simplified/slide03.md)
+4. **Problem 2**: "STORAGE COSTS OUT OF CONTROL" - [View](slides-simplified/slide04.md)
+5. **Problem 3**: "INTEGRATION COMPLEXITY & LOCK-IN" - [View](slides-simplified/slide05.md)
+6. **Solution Summary**: "OUR APPROACH: CONTENT-ADDRESSABLE ARCHITECTURE" - [View](slides-simplified/slide06.md)
+7. **Technical Architecture**: "TECHNICAL ARCHITECTURE" - [View](slides-simplified/slide07.md)
+8. **CAS Technology**: "CONTENT-ADDRESSABLE STORAGE FOR PARTNERS" - [View](slides-simplified/slide08.md)
+9. **Integration Options**: "FLEXIBLE INTEGRATION OPTIONS" - [View](slides-simplified/slide09.md)
+10. **Developer Tools**: "COMPREHENSIVE DEVELOPER RESOURCES" - [View](slides-simplified/slide10.md)
+11. **Enterprise Security**: "ENTERPRISE-GRADE SECURITY" - [View](slides-simplified/slide11.md)
+12. **Partner Success Stories**: "PARTNER SUCCESS STORIES" - [View](slides-simplified/slide12.md)
+13. **Integration Benefits**: "PROVEN PARTNER BENEFITS" - [View](slides-simplified/slide13.md)
+14. **AI Advantages**: "AI INTEGRATION ADVANTAGES" - [View](slides-simplified/slide14.md)
+15. **Partnership Models**: "PARTNERSHIP MODELS" - [View](slides-simplified/slide15.md)
+16. **Implementation Process**: "IMPLEMENTATION PROCESS" - [View](slides-simplified/slide16.md)
+17. **Partner Resources**: "COMPREHENSIVE PARTNER RESOURCES" - [View](slides-simplified/slide17.md)
+18. **Industry Solutions**: "INDUSTRY-SPECIFIC SOLUTIONS" - [View](slides-simplified/slide18.md)
+19. **Call to Action**: "NEXT STEPS" - [View](slides-simplified/slide19.md)
+20. **Team & Contact**: "PARTNERSHIP TEAM" - [View](slides-simplified/slide20.md)
+21. **Technical Specifications**: "TECHNICAL SPECIFICATIONS" - [View](slides-simplified/slide21.md)
+
+## Simplification Principles Applied
+
+All slides follow these key presentation best practices:
+
+1. **Maximum 5 Bullet Points** per slide
+2. **Brief Bullet Points** (5-7 words each)
+3. **Visual Priority** (60-70% of slide space for visuals)
+4. **Highlighted Key Metrics** where applicable
+5. **Detailed Speaker Notes** for verbal delivery
+6. **Consistent Formatting** across all slides
+7. **Maintained Original Titles** from the pitch deck
+
+## File Naming Convention
+
+All simplified slides use this naming format:
+- `slide01_simplified.md`, `slide02_simplified.md`, etc.
+- Using two digits (01-21) for proper sorting
+
+## Additional Resources
+
+- [README.md](../README.md) - Main documentation for the simplified deck
+- [SLIDE_SIMPLIFICATION.md](SLIDE_SIMPLIFICATION.md) - Detailed design principles
+- [PRESENTATION_GUIDE.md](PRESENTATION_GUIDE.md) - Speaking tips and key talking points
+
+## Usage Notes
+
+This slide deck is designed to be customized for different partner types. When presenting:
+
+1. **Customize Content** - Adapt examples to the specific partner type
+2. **Focus on Relevant Sections** - Spend more time on slides matching partner interests
+3. **Complement with Leave-Behind Materials** - Provide detailed documentation after
+4. **Practice Verbal Delivery** - Use speaker notes to guide your presentation
