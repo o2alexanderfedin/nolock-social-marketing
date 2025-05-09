@@ -84,85 +84,128 @@ This document complements the Target Audiences analysis by providing detailed pe
 
 ## Consumer Personas
 
-### 1. Sophia - The Privacy Advocate
+### 1. Sophia - The Privacy-Conscious Financial Consumer
 
 **Demographics:**
 - 32 years old, based in Toronto
 - UX designer at a tech company
-- Actively concerned about digital privacy
+- Actively concerned about financial data privacy
 - Early adopter of privacy-focused technologies
 
 **Digital Behavior:**
 - Uses Signal for messaging, ProtonMail for email
-- Has deleted Facebook account over privacy concerns
+- Has deleted financial apps that share data with third parties
 - Pays for services rather than using ad-supported alternatives
-- Researches privacy policies before using new apps
+- Researches privacy policies before using new financial apps
 
 **Goals:**
-- Maintain control over personal data and digital identity
-- Connect with others without algorithmic manipulation
+- Maintain control over personal financial data
+- Efficiently track expenses and receipts
+- Keep financial records secure but accessible
 - Support technologies that align with privacy values
 
 **Frustrations:**
-- Feels trapped in surveillance capitalism ecosystem
-- Difficulty convincing friends to use privacy-focused alternatives
-- Trade-off between privacy and convenience in current apps
+- Lacks trust in how financial apps store and share data
+- Manual receipt organization is time-consuming
+- Difficulty securely sharing financial documents with accountant
+- Accessing financial records across different devices
 
 **Discovery Journey:**
-- Follows privacy advocates and digital rights organizations
-- Reads tech publications with privacy focus
-- Participates in online privacy communities
+- Follows privacy advocates and financial technology blogs
+- Reads personal finance publications with privacy focus
+- Participates in online privacy and personal finance communities
 - Recommendations from like-minded friends
 
 **Decision Criteria:**
-- Transparency about data usage
-- User control over personal information
+- Transparency about data usage and storage
+- User control over personal financial information
 - No advertising-based business model
 - Easy enough to use daily without major compromises
 
 **Key Message:**
-"Delfin gives you complete ownership of your content and connections, with a user experience that makes privacy the default, not a compromise."
+"Delfin gives you complete ownership of your financial records with a user experience that makes privacy and organization the default, not a compromise."
 
-### 2. Marcus - The Content Creator
+### 2. Marcus - The Small Business Owner
 
 **Demographics:**
 - 35 years old, based in Los Angeles
-- Independent digital artist and content creator
-- 50,000+ followers across platforms
-- Derives income from content creation and commissions
+- Independent graphic design business owner
+- 5-10 client projects per month
+- Manages all business finances himself
 
 **Digital Behavior:**
-- Active on multiple platforms (Instagram, YouTube, TikTok)
-- Creates digital art and tutorial content
-- Has experienced content theft and attribution issues
-- Interested in direct monetization models
+- Uses multiple financial and business apps
+- Regularly captures receipts for business expenses
+- Shares financial documents with accountant quarterly
+- Needs to track expense categories for tax purposes
 
 **Goals:**
-- Maintain verifiable ownership of created content
-- Build direct relationships with audience
-- Reduce dependence on platform algorithms
-- Establish provenance for digital creations
+- Streamline receipt and expense tracking
+- Reduce time spent on financial paperwork
+- Maintain accurate records for tax purposes
+- Easily share records with accountant
 
 **Frustrations:**
-- Content stolen and reposted without attribution
-- Platform algorithms suddenly changing, affecting visibility
-- Lack of control over how content is distributed
-- Difficult to prove original creation for dispute resolution
+- Losing paper receipts or forgetting to record expenses
+- Time spent manually organizing financial documents
+- Concerns about secure storage of financial information
+- Difficulty matching receipts to bank transactions
 
 **Discovery Journey:**
-- Follows creator economy news and trends
-- Participates in creator communities and forums
-- Recommendations from other creators
-- Explores new platforms for content distribution
+- Follows small business resources and productivity tools
+- Participates in freelancer and entrepreneur communities
+- Recommendations from accountant and business peers
+- Searches for expense tracking and receipt management solutions
 
 **Decision Criteria:**
-- Tools for establishing content ownership
-- Audience discovery capabilities
-- Integration with existing creative workflow
-- Potential for monetization
+- Time savings and ease of use
+- Security of financial data
+- Integration with existing accounting software
+- Mobile app quality for on-the-go capture
 
 **Key Message:**
-"With Delfin, your creations remain verifiably yours, with tamper-proof attribution and distribution you control."
+"With Delfin, your business expenses are automatically captured, organized, and securely stored, saving you hours of paperwork and ensuring you never miss a deduction."
+
+### 3. Lisa - The Financial Advisor
+
+**Demographics:**
+- 41 years old, based in Chicago
+- Independent financial advisor with 50+ clients
+- 15 years of experience in financial services
+- Manages client document collection and organization
+
+**Digital Behavior:**
+- Uses multiple financial planning and document management tools
+- Frequently requests financial documents from clients
+- Needs secure methods to receive sensitive financial information
+- Values efficiency in document processing workflows
+
+**Goals:**
+- Streamline client document collection process
+- Ensure security and compliance when handling financial documents
+- Provide better service through organized client records
+- Reduce administrative overhead
+
+**Frustrations:**
+- Clients send documents in inconsistent formats
+- Security concerns with email attachments of sensitive information
+- Time wasted on document organization and categorization
+- Difficulty maintaining complete client financial records
+
+**Discovery Journey:**
+- Financial advisor professional associations
+- Finance technology conferences and webinars
+- Recommendations from industry colleagues
+- Financial practice management publications
+
+**Decision Criteria:**
+- Security and compliance features
+- Client experience and ease of use
+- Integration with existing financial planning software
+- Efficiency improvements for document workflow
+
+**Key Message:**
+"Delfin helps you collect, verify, and securely store client financial documents, reducing administrative overhead while enhancing security and client service."
 
 ## B2B Personas
 
