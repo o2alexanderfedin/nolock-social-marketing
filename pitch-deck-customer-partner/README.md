@@ -6,7 +6,7 @@ This directory contains a customized pitch deck for NoLock Social, specifically 
 
 ## Target Audiences
 
-This pitch deck is tailored for:
+This complete 21-slide pitch deck is tailored for:
 
 1. **Enterprise Technology Partners**
    - Enterprise security vendors
@@ -58,6 +58,11 @@ This pitch deck is tailored for:
 | 18 | [Industry Solutions](slides/slide18.md) | Value Proposition | Industry-specific use cases and benefits |
 | 19 | [Call to Action](slides/slide19.md) | Call to Action | Next steps for partnership exploration |
 | 20 | [Team & Contact](slides/slide20.md) | Credibility | Team introduction and contact information |
+| 21 | [Technical Specifications](slides/slide21.md) | Reference | Technical specifications and deployment options |
+
+## Complete Slide Index
+
+See the [Slide Index](slides/slide01_readme.md) for a complete list of all slides with links.
 
 ## Partnership Value Proposition
 
