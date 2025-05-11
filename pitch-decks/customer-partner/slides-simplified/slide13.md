@@ -11,14 +11,14 @@
 PROVEN PARTNER BENEFITS
 
 TECHNICAL
-• 35-40% storage reduction
-• 60-75% faster verification
-• 45% simpler integration
+• Significant storage reduction
+• Faster verification processes
+• Simplified integration
 
 BUSINESS
-• 15-20% higher margins
-• 22% larger deal sizes
-• 4-6 month payback period
+• Higher margins on premium features
+• Increased average deal sizes
+• Quick payback period
 ```
 
 ## Design Elements

@@ -10,8 +10,8 @@
 ```
 STORAGE COSTS OUT OF CONTROL
 
-• 60-85% duplicate content in storage
-• 30-40% annual cost increases
+• Majority of content duplicated
+• Rapidly increasing annual costs
 • Data inconsistency across systems
 • Massive hidden management costs
 ```

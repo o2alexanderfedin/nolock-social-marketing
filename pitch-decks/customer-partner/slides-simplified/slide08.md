@@ -11,7 +11,7 @@
 CONTENT-ADDRESSABLE STORAGE FOR PARTNERS
 
 • Seamless integration with existing storage
-• 40% reduction in storage costs
+• Significant reduction in storage costs
 • Verification built into storage layer
 • Flexible deployment: cloud or on-premises
 ```

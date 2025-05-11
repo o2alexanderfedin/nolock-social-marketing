@@ -11,18 +11,18 @@
 PARTNER SUCCESS STORIES
 
 FINANCIAL SERVICES
-• 42% storage reduction
-• 6-week implementation
+• Substantial storage reduction
+• Quick implementation
 • New compliance capabilities
 
 MEDIA
-• 38% storage savings
+• Major storage savings
 • Enhanced rights management
 • New premium offering
 
 ENTERPRISE SOFTWARE
-• 35% customer storage savings
-• 22% increase in deal size
+• Improved customer storage efficiency
+• Larger deal sizes
 ```
 
 ## Design Elements

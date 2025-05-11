@@ -12,7 +12,7 @@ INTEGRATION COMPLEXITY & LOCK-IN
 
 • Custom adapters required per platform
 • Proprietary APIs create vendor dependence
-• 76% report integration bottlenecks
+• Integration bottlenecks slow innovation
 • Security features siloed within platforms
 ```
 

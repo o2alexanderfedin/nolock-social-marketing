@@ -11,8 +11,8 @@
 CONTENT VERIFICATION CRISIS
 
 • Content authenticity increasingly questioned
-• Tampering costs $4.35M per incident
-• 67% report verification gaps
+• Significant costs from tampering incidents
+• Widespread verification gaps
 • Regulatory requirements expanding rapidly
 ```
 
