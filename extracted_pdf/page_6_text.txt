@@ -1,2 +1,4 @@
-Name of page 
-For Alex: We slowly reinforce/strenthen conections with people we trust and ignore information 
+Trusted Connections
+For Alex: We slowly reinforce/strengthen connections with people we trust and ignore information from connections that
+harmful. We decide what kind of information we would like to share, including financial transactions with trusted
+connections. They could be much much cheap and safer than in current blockchains.

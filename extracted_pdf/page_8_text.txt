@@ -1,2 +1,17 @@
-Name of page 
-For Alex: This’s how social networks and service starts. There’s already a problem with fragmentation and duplication. 
+How Does It Works?
+Technology
+For Alex: The main principle is proof based cryptographic algorithms instead of protocols and centralized decision about what’s true.
+The Stack:
+1. CAS is a Content-Addressable Storage. The storage is unaware of the content structure and relations between data blocks. Proof:
+the statement: this address points to the data,
+an algorithm: any good cryptographic hash function that accepts data and returns its hash, if the hash matches, returns true.
+2. DISOT is a Decentralized, Immutable Source Of Truth. It's based on top of CAS and achieves the same goal as single source of truth, but without centralized or
+decentralized authorities or registers. It includes digital signatures and revision formats for mutable data. Two main, essential proofs:
+the data is signed by a person who has a private key of the known public key,
+the data is signed by a specific date and time using trusted timestamping,
+3. Networks Of Trust. It's based on DISOT. This is where the fun and opportunities are. It's about weighted subjective trust, reducing information noise, and playing a
+positive-sum game with others.
+Products:
+Blockset
+Delfin
+FunctionalScript
