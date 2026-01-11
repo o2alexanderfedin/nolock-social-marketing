@@ -9,7 +9,7 @@ Due to the complexities of programmatically updating Google Slides, this documen
    - Make sure you're logged in with the appropriate Google account
 
 2. **Have the content source ready**:
-   - Navigate to the directory: `/Users/alexanderfedin/Projects/nolock.social/marketing/pitch-deck-investor-full/slides`
+   - Navigate to the directory: `~/Projects/nolock.social/marketing/pitch-deck-investor-full/slides`
    - You can open these files in a text editor to easily copy content
 
 ## Updating Each Slide

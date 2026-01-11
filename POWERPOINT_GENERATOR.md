@@ -21,7 +21,7 @@ This tool automatically generates PowerPoint presentations from the markdown sli
 To generate the PowerPoint presentations, run the following command from the terminal:
 
 ```bash
-cd /Users/alexanderfedin/Projects/nolock.social/marketing
+cd ~/Projects/nolock.social/marketing
 ./generate_powerpoint.sh
 ```
 
@@ -40,8 +40,8 @@ If you encounter issues with the enhanced version, you can use the basic generat
 ## Output Files
 
 The generated PowerPoint files will be placed in:
-- `/Users/alexanderfedin/Projects/nolock.social/marketing/NoLock_Partner_Simplified.pptx`
-- `/Users/alexanderfedin/Projects/nolock.social/marketing/NoLock_Partner_Detailed.pptx`
+- `~/Projects/nolock.social/marketing/NoLock_Partner_Simplified.pptx`
+- `~/Projects/nolock.social/marketing/NoLock_Partner_Detailed.pptx`
 
 ## Presentation Best Practices
 

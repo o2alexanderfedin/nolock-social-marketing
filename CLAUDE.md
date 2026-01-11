@@ -92,7 +92,7 @@ When working with this project, the following commands may be useful:
 
 ```bash
 # Navigate to project directory
-cd /Users/alexanderfedin/Projects/nolock.social/marketing
+cd ~/Projects/nolock.social/marketing
 
 # View presentation metadata
 open presentation-metadata/README.md

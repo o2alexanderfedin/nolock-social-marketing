@@ -14,7 +14,7 @@ This directory contains materials derived from our comprehensive audience person
 
 ## Persona Research Foundation
 
-All materials in this directory are based on our comprehensive [Audience Personas](/Users/alexanderfedin/Projects/nolock.social/marketing/docs/market/AUDIENCE_PERSONAS.md) document, which was developed through extensive interview research with representatives from each target audience segment.
+All materials in this directory are based on our comprehensive [Audience Personas](~/Projects/nolock.social/marketing/docs/market/AUDIENCE_PERSONAS.md) document, which was developed through extensive interview research with representatives from each target audience segment.
 
 ### Research Methodology
 
